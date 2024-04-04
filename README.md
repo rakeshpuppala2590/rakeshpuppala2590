@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rakeshpuppala1999int@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xEzUfA3ly4XEpF1_vPY5Y_zfeqBiPnNT/view?usp=sharing](https://drive.google.com/file/d/1xEzUfA3ly4XEpF1_vPY5Y_zfeqBiPnNT/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1xEzUfA3ly4XEpF1_vPY5Y_zfeqBiPnNT/view?usp=sharing](https://drive.google.com/file/d/1xEzUfA3ly4XEpF1_vPY5Y_zfeqBiPnNT/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
