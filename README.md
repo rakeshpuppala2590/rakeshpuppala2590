@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GoLang,JQuery**
 
-- 👨‍💻 All of my projects are available at [[https://rakeshpuppala1999.web.app](https://rakeshpuppala1999.web.app/)/](https://rakeshpuppala2591.web.app/)
+- 👨‍💻 All of my projects are available at [[https://rakeshpuppala1999.web.app](https://rakeshpuppala1999.web.app/)/]
 
 - 💬 Ask me about **ReactJS, ExpressJS, mongoDB**
 
