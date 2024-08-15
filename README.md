@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshpuppala2590" alt="rakeshpuppala2590" /></a> </p>
 
-- 🔭 I’m currently working on [SEO Keyword Tracker and Analyzer](https://github.com/rakeshpuppala2590/SEO_Keyword_Analyzer)
+- 🔭 I’m currently working on [FlashCard Application](https://github.com/rakeshpuppala2590/Calmify)
 
 - 🌱 I’m currently learning **GoLang,JQuery**
 
-- 👨‍💻 All of my projects are available at [[https://rakeshpuppala1999.web.app](https://rakeshpuppala1999.web.app/)/]
+- 👨‍💻 All of my projects are available at [[](https://rakeshpuppala.com/)/]
 
-- 💬 Ask me about **ReactJS, ExpressJS, mongoDB**
+- 💬 Ask me about **NextJS, ExpressJS, mongoDB**
 
 - 📫 How to reach me **rakeshpuppala1999int@gmail.com**
-
-- 📄 Know about my experiences[https://drive.google.com/file/d/1nl3IEgLWfNGj-45sbK9M6goIxLvf6HRW/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
